@@ -1,7 +1,6 @@
-## DeepForensics
+## Sol History
 
-The purpose of this webapp is to host a Video Forensics Toolkit.
-This Project has reusable react components that are highly customizable.
+This website is for showing our SolHistory NFTs.
 This Project is still in development
 
 ### `npm start`

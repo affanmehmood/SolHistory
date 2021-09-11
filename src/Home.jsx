@@ -1,19 +1,23 @@
 import React from "react";
 import "./index.css";
-import HomeAbout from "./ReusableCompnents/home-about";
-import image from "./images/video.svg";
+import Home from "./ReusableCompnents/home";
+import image from "./images/main-design.gif";
 
-const Home = () => {
-  const msg1 = "Investigate crimes with";
-  const msg1_2 = "OcularX";
-  const msg2 = "The leading video forensics toolkit in the market.";
-  const msg3 = "Get Started";
+export default () => {
+  const msg1 = "Bringing ";
+  const msg1_1 = "to blockchain"
+  const typical = ['history', 2000, 'past', 2000, 'culture', 2000]
+  const msg1_2 = "SolHistory";
+  const msg2 = "We bring historical figures to the nft marketplaces.";
+  const msg3 = "Vist Marketplace";
   const dest = "/download";
   const web = image;
   return (
     <>
-      <HomeAbout
+      <Home
+        typical={typical}
         msg1={msg1}
+        msg1_1={msg1_1}
         msg1_2={msg1_2}
         msg2={msg2}
         msg3={msg3}
@@ -24,4 +28,3 @@ const Home = () => {
   );
 };
 
-export default Home;

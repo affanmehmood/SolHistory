@@ -4,9 +4,7 @@ import "bootstrap/dist/css/bootstrap.min.css";
 import "bootstrap/dist/js/bootstrap.bundle";
 
 import Home from "./Home.jsx";
-import Service from "./Service";
-import About from "./About";
-import Contact from "./Contact";
+import Rarity from "./Rarity";
 import NavBar from "./Navbar";
 import Footer from "./ReusableCompnents/footer.jsx";
 import "./App.css";
@@ -14,17 +12,13 @@ import { Switch, Route, Redirect } from "react-router-dom";
 
 function App() {
   return (
-    <div className="d-flex flex-column flex-sm-column">
-
+    <div className="d-flex flex-column flex-sm-column pb-5 bg-g">
       <NavBar />
       <Switch>
         <Route exact path="/" component={Home} />
-        <Route exact path="/download" component={Service} />
-        <Route exact path="/about" component={About} />
-        <Route exact path="/contact" component={Contact} />
+        <Route exact path="/rarity" component={Rarity} />
         <Redirect to="/" />
       </Switch>
-      <Footer />
     </div>
   );
 }
