@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "5a012e07b7ff896c3090c83c86203e85",
+    "revision": "4b696c79893130f8fd7d3a4a37bbfe17",
     "url": "/SolHistory/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/SolHistory/static/css/2.75c4ecca.chunk.css"
   },
   {
-    "revision": "edfc483c095f76bcd134",
-    "url": "/SolHistory/static/css/main.46d607c9.chunk.css"
+    "revision": "55eb5bfed343c851dfee",
+    "url": "/SolHistory/static/css/main.4a044521.chunk.css"
   },
   {
     "revision": "d3c28681618b001b7abe",
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/SolHistory/static/js/2.6419ada3.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "edfc483c095f76bcd134",
-    "url": "/SolHistory/static/js/main.2b832346.chunk.js"
+    "revision": "55eb5bfed343c851dfee",
+    "url": "/SolHistory/static/js/main.c0c4ff8b.chunk.js"
   },
   {
     "revision": "0393c886384606062142",
