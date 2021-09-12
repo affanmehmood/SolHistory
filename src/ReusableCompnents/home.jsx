@@ -3,6 +3,8 @@ import React from "react";
 import { NavLink } from "react-router-dom";
 import RoadMap from './RoadMap'
 import Typical from './Typical'
+import Description from "./Description";
+import Typography from '@material-ui/core/Typography';
 
 const Home = (props) => {
   const msg1 = props.msg1;
@@ -27,9 +29,9 @@ const Home = (props) => {
                     {msg1_1}
                     <br/>
                   </h2>
-                    <h1>
-                    <strong className="brand-name"> {msg1_2}</strong>
-                    </h1>
+                  
+                  
+                <Typography variant="h1" className="mb-0 brand-name"> <strong>{msg1_2}</strong></Typography>
                   <h2 className="my-3">{msg2}</h2>
                   <div className="mt-4">
                     <NavLink exact to={dest} className="btn-get-started">
@@ -49,7 +51,12 @@ const Home = (props) => {
             </div>
           </div>
           <div className="row justify-content-center  mt-5" >
-            <div classeName="p-5" style={{width:"50%" ,borderStyle: "outset"}}>
+            <div classeName="p-5" style={{width:"60%" }}>
+              <Description />
+            </div>
+          </div>
+          <div className="row justify-content-center  mt-5" >
+            <div classeName="p-5" style={{width:"60%" }}>
               <RoadMap />
             </div>
           </div>

@@ -15,7 +15,7 @@ const ServiceCard = (props) => {
             <h5 className="card-title">{title}</h5>
             <p className="card-text">{text}</p>
             <NavLink to="#" className="btn btn-primary">
-              Details
+              Download
             </NavLink>
           </div>
         </div>

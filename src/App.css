@@ -6,6 +6,7 @@
   font-family: 'Kalam', cursive;
   margin: 0 auto;
   color: #ffffff;
+  height: 100%;
 }
 .title {
   display: flex;
@@ -30,7 +31,7 @@
 @media (max-width: 991px) {
   @media (max-width: 768px) {
     .bg-g {
-      height: 250vh;
+      height: 200vh;
     }
   }
 }
