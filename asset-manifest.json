@@ -1,20 +1,21 @@
 {
   "files": {
-    "main.css": "/SolHistory/static/css/main.4a044521.chunk.css",
-    "main.js": "/SolHistory/static/js/main.c0c4ff8b.chunk.js",
-    "main.js.map": "/SolHistory/static/js/main.c0c4ff8b.chunk.js.map",
+    "main.css": "/SolHistory/static/css/main.b70b1cb6.chunk.css",
+    "main.js": "/SolHistory/static/js/main.2990f183.chunk.js",
+    "main.js.map": "/SolHistory/static/js/main.2990f183.chunk.js.map",
     "runtime-main.js": "/SolHistory/static/js/runtime-main.0a46fad3.js",
     "runtime-main.js.map": "/SolHistory/static/js/runtime-main.0a46fad3.js.map",
     "static/css/2.75c4ecca.chunk.css": "/SolHistory/static/css/2.75c4ecca.chunk.css",
-    "static/js/2.6419ada3.chunk.js": "/SolHistory/static/js/2.6419ada3.chunk.js",
-    "static/js/2.6419ada3.chunk.js.map": "/SolHistory/static/js/2.6419ada3.chunk.js.map",
+    "static/js/2.e9807184.chunk.js": "/SolHistory/static/js/2.e9807184.chunk.js",
+    "static/js/2.e9807184.chunk.js.map": "/SolHistory/static/js/2.e9807184.chunk.js.map",
     "index.html": "/SolHistory/index.html",
-    "precache-manifest.1ac36d0b3be448f2b0d221b8602f0cf4.js": "/SolHistory/precache-manifest.1ac36d0b3be448f2b0d221b8602f0cf4.js",
+    "precache-manifest.b4e0aa5decf518ab68f45552e0368dc4.js": "/SolHistory/precache-manifest.b4e0aa5decf518ab68f45552e0368dc4.js",
     "service-worker.js": "/SolHistory/service-worker.js",
     "static/css/2.75c4ecca.chunk.css.map": "/SolHistory/static/css/2.75c4ecca.chunk.css.map",
-    "static/css/main.4a044521.chunk.css.map": "/SolHistory/static/css/main.4a044521.chunk.css.map",
-    "static/js/2.6419ada3.chunk.js.LICENSE.txt": "/SolHistory/static/js/2.6419ada3.chunk.js.LICENSE.txt",
+    "static/css/main.b70b1cb6.chunk.css.map": "/SolHistory/static/css/main.b70b1cb6.chunk.css.map",
+    "static/js/2.e9807184.chunk.js.LICENSE.txt": "/SolHistory/static/js/2.e9807184.chunk.js.LICENSE.txt",
     "static/media/frmenh.png": "/SolHistory/static/media/frmenh.e8501016.png",
+    "static/media/index.css": "/SolHistory/static/media/history.2fa0eb07.gif",
     "static/media/logo.svg": "/SolHistory/static/media/logo.a7dc2ab0.svg",
     "static/media/main-design.gif": "/SolHistory/static/media/main-design.19c262fa.gif",
     "static/media/objidf.png": "/SolHistory/static/media/objidf.93a5a291.png",
@@ -27,8 +28,8 @@
   "entrypoints": [
     "static/js/runtime-main.0a46fad3.js",
     "static/css/2.75c4ecca.chunk.css",
-    "static/js/2.6419ada3.chunk.js",
-    "static/css/main.4a044521.chunk.css",
-    "static/js/main.c0c4ff8b.chunk.js"
+    "static/js/2.e9807184.chunk.js",
+    "static/css/main.b70b1cb6.chunk.css",
+    "static/js/main.2990f183.chunk.js"
   ]
 }
